@@ -3,3 +3,4 @@ scikit-learn
 pandas
 numpy
 bcrypt
+python-telegram-bot==13.15
